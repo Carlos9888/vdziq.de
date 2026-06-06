@@ -1,0 +1,10 @@
+/ https://s.shopee.co.id/6py3VMM9Hv 302
+/d/* https://s.shopee.co.id/9zvAFr25ZW 302
+/e/* https://s.shopee.co.id/2LVj7khz6q 302
+/f/* https://s.shopee.co.id/8V6MT43FFW 302
+/s/* https://s.shopee.co.id/qgvKqQaY7 302
+# Force HTTP to HTTPS
+http://vdziq.de/* https://vdziq.de/:splat 301!
+
+# Optional: Redirect www to non-www
+www.vdziq.de/* https://vdziq.de/:splat 301!
